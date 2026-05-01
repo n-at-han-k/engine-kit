@@ -1,5 +1,7 @@
 # engine_kit
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/n-at-han-k/engine-kit)
+
 A template for creating mountable Rails engines.
 
 ## Usage
